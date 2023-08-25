@@ -1,0 +1,13 @@
+[
+  {
+    "Name": "home-end-keys",
+    "Summary": "Reonfigures HOME/END keys",
+    "Version": "1.0",
+    "Source": "configureHomeEndKeys.mx",
+    "Dependencies": {
+      "Optional": [],
+      "Required": [],
+      "Platform": ["darwin"]
+    }
+  }
+]
